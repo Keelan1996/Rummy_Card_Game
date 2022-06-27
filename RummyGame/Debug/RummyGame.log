@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Dell\source\repos\RummyGame\RummyGame\main.c(24,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\RummyGame\RummyGame\main.c(40,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\RummyGame\RummyGame\main.c(18,47): warning C4101: 'userhand': unreferenced local variable
+C:\Users\Dell\source\repos\RummyGame\RummyGame\main.c(71,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\source\repos\RummyGame\RummyGame\main.c(101,50): warning C4101: 'sum': unreferenced local variable
+  RummyGame.vcxproj -> C:\Users\Dell\source\repos\RummyGame\Debug\RummyGame.exe
